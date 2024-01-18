@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+p{
+    color: white;background-color: brown;
+}
+li{
+    color: blue;background-color: white;
+}
+pre{
+    text-align: right;color: black;
+}
